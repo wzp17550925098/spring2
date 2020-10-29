@@ -1,0 +1,8 @@
+com\usian\exception\MyException.class
+com\usian\service\StudentService.class
+com\usian\controller\StudentController.class
+com\usian\mapper\StudentMapper.class
+com\usian\entity\MyEmal.class
+com\usian\App.class
+com\usian\entity\Student.class
+com\usian\service\StudentServiceImpl.class
